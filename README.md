@@ -15,6 +15,6 @@ Linear Regression and Random Forest algorithms are used.
 The model predicts final marks and shows accuracy and graphs.
 
 ## Author
-Vishnu
+Vishnnu
 EEE Department
 
